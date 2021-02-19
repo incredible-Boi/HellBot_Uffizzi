@@ -16,3 +16,6 @@ Just fork this repo and deploy at uffizzi.com and fill required vars.
 6. Choose postgress database. Else it will not work.
 
 7. Enjoy your HellBot
+
+# Note :-
+#### I only added some required vars. You can add more according to your need. Just edit the Dockerfile.
